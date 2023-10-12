@@ -8,3 +8,7 @@
 I have add six defferent headers to check
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
